@@ -6,16 +6,16 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
-url: https://reasoning-machine.github.io
+url: https://thingking-machine.github.io
 baseurl: /grok
 
-title: Reasoning Machine
+title: Thingking Machine
 description: A machine is a thing. Things can not think. ...but some of them can thingk!
 
 machine:
-  name: Reasoning-Machine
-  verb: Reasoning
-  instructions_file: reasoning.txt
+  name: Thingking-Machine
+  verb: Thingking
+  instructions_file: thingking.txt
   token: grok.txt
   apiUrl: https://api.x.ai/v1/chat/completions
 
@@ -32,8 +32,8 @@ lm:
 
 
 github_settings:
-  owner: reasoning-machine
-  repo: reasoning_machine
+  owner: thingking-machine
+  repo: thingking_machine
   file_name: machina.yaml
   branch: main
   token_file: github.txt
