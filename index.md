@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Reasoning Machine
+title: Thingking Machine
 ---
 # Thingking Machine
 
